@@ -3,7 +3,7 @@
 
 
 // #ifndef APSSID
-// #define APSSID "Grapes Test"
+// #define APSSID "Test"
 // #define APPSK "123456789"
 // #endif
 
