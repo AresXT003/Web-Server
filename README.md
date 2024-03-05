@@ -12,18 +12,14 @@
 
 This project showcases an ESP8266-based WiFi-enabled web server that allows users to control an LED via a login page. The user can access the login page by connecting to the ESP8266's WiFi network and entering the provided credentials. Once logged in, the user can turn the LED on or off. This project demonstrates the use of the ESP8266 as a WiFi-enabled device, handling HTTP requests, and controlling hardware components.
 
-### Project 1
+### Project 
 
 - Description: [Web-Server]
 - [https://github.com/AresXT003/Web-Server.git]
 
-### Project 2
-
-- Description: [Add a short description of the project here]
-- [Link to the project page]
 
 
-### Code Snippet 1
+### Code Snippet 
 
 - Language: [C++.]
 - Description: [This snippet showcases a simple ESP8266-based WiFi-enabled web server with a login page that controls an LED.]
