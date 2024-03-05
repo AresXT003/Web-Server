@@ -14,7 +14,7 @@ This project showcases an ESP8266-based WiFi-enabled web server that allows user
 
 ### Project 
 
-- Description: [Web-Server]
+- Description: [This snippet showcases a simple ESP8266-based WiFi-enabled web server with a login page that controls an LED.]
 - [https://github.com/AresXT003/Web-Server.git]
 
 
@@ -23,7 +23,7 @@ This project showcases an ESP8266-based WiFi-enabled web server that allows user
 
 - Language: [C++.]
 - Description: [This snippet showcases a simple ESP8266-based WiFi-enabled web server with a login page that controls an LED.]
-- [login/login.ino]
+- [https://github.com/AresXT003/Web-Server/blob/main/login/login.ino]
 
 
 
